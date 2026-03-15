@@ -71,10 +71,7 @@ AWS • Google Cloud • Git • Docker (learning)
 
 ## 📬 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: https://linkedin.com
+📧 Email: [reshunandi123@gmail.com](mailto:your-email@example.com)
+💼 LinkedIn: https://www.linkedin.com/in/sujal-nandi-290a7425a
 🐙 GitHub: https://github.com
 
----
-
-⭐ **"Code. Learn. Build. Repeat."**
